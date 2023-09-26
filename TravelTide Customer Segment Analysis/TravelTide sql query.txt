@@ -1,0 +1,10 @@
+select h.user_id, h.trip_id, h.flight_discount, h.hotel_discount, h.flight_discount_amount, 
+h.hotel_discount_amount, h.flight_booked, h.hotel_booked, h.cancellation, ht.nights, ht.rooms, 
+ht.hotel_per_room_usd, f.destination, f.seats, f.return_flight_booked, f.checked_bags,
+f.trip_airline, f.base_fare_usd
+from sessions as h
+
+/*apply left join to merge all the columns from left table and only matching from right table*/
+left join hotels as ht using(trip_id)
+left join flights as f using(trip_id)
+order by user_id asc

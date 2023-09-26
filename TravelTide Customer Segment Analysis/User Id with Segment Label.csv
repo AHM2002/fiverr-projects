@@ -1,0 +1,300 @@
+﻿user_id,Customer Segments by frequency of Travelling,Customer Segments by Checked Bags,Customer Segments by Flight Discount,Customer Segments by Hotel Discount,Customer Segments by Nights,Customer Segments by base_fare_usd
+0,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+1,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+2,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Luxury Travelers
+3,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+4,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+5,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+6,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+7,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Luxury Travelers
+8,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Short-Stay Guests,Mid-Range Travelers
+9,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+10,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+11,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+12,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+13,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+14,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+15,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+16,Frequent Travelers,Double Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+17,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+18,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+19,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+20,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Mid-Range Travelers
+21,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+22,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+23,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+24,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+25,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+26,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+27,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+28,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+29,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Short-Stay Guests,Mid-Range Travelers
+30,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+31,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+32,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+33,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Mid-Range Travelers
+34,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+35,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+36,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+37,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+38,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+39,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+40,Frequent Travelers,Heavy Packers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+41,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+42,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+43,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+44,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+45,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+46,Frequent Travelers,Double Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+47,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+48,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+49,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+50,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+51,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+52,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+53,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+54,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+55,Frequent Travelers,Double Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+56,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+57,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+58,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+59,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+60,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+61,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+62,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Short-Stay Guests,Mid-Range Travelers
+63,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Short-Stay Guests,Budget Travelers
+64,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+65,Frequent Travelers,Double Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+66,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+67,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Mid-Range Travelers
+68,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Short-Stay Guests,Budget Travelers
+69,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+70,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+71,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+72,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+73,Frequent Travelers,Double Bag Travelers,Discount Enthusiasts,Discount Seekers,Short-Stay Guests,Mid-Range Travelers
+74,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+75,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+76,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+77,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+78,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+79,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Luxury Travelers
+80,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+81,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Short-Stay Guests,Mid-Range Travelers
+82,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+83,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+84,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+85,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+86,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+87,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+88,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+89,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+90,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+91,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+92,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+93,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+94,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Short-Stay Guests,Budget Travelers
+95,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+96,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+97,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+98,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+99,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+100,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+101,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+102,Frequent Travelers,Heavy Packers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+103,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+104,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+105,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Mid-Range Travelers
+106,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+107,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+108,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+109,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+110,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+111,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+112,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+113,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+114,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+115,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+116,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+117,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+118,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+119,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Short-Stay Guests,Budget Travelers
+120,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+121,Frequent Travelers,Double Bag Travelers,Discount Seekers,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+122,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+123,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+124,Frequent Travelers,Double Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+125,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+126,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+127,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+128,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+129,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+130,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+131,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+132,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+133,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+134,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+135,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Short-Stay Guests,Budget Travelers
+136,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Short-Stay Guests,Budget Travelers
+137,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+138,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+139,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+140,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+141,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Mid-Range Travelers
+142,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+143,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+144,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+145,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+146,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+147,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+148,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+149,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+150,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+151,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+152,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+153,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+154,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Short-Stay Guests,Mid-Range Travelers
+155,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+156,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+157,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+158,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+159,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+160,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+161,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+162,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+163,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+164,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+165,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+166,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+167,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Mid-Range Travelers
+168,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+169,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+170,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+171,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+172,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+173,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+174,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+175,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+176,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+177,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+178,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+179,Frequent Travelers,Double Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+180,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+181,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+182,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+183,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+184,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Luxury Travelers
+185,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+186,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+187,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+188,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+189,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+190,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+191,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+192,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Short-Stay Guests,Budget Travelers
+193,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+194,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+195,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+196,Frequent Travelers,Double Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+197,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+198,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+199,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+200,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+201,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+202,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+203,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+204,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+205,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+206,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+207,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+208,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+209,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+210,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+211,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+212,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+213,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+214,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+215,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Mid-Range Travelers
+216,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+217,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+218,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+219,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+220,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Short-Stay Guests,Mid-Range Travelers
+221,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+222,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Short-Stay Guests,Luxury Travelers
+223,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Short-Stay Guests,Budget Travelers
+224,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+225,Frequent Travelers,Double Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+226,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+227,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+228,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+229,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+230,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Mid-Range Travelers
+231,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+232,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Short-Stay Guests,Mid-Range Travelers
+233,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Luxury Travelers
+234,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Short-Stay Guests,Budget Travelers
+235,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Extended-Stay Travelers,Luxury Travelers
+236,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+237,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+238,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Short-Stay Guests,Luxury Travelers
+239,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+240,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Mid-Range Travelers
+241,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+242,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Short-Stay Guests,Luxury Travelers
+243,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+244,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+245,Frequent Travelers,Double Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Luxury Travelers
+246,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+247,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+248,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+249,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+250,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
+251,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Mid-Range Travelers
+252,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+253,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+254,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+255,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Short-Stay Guests,Budget Travelers
+256,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+257,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+258,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+259,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+260,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+261,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Short-Stay Guests,Budget Travelers
+262,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+263,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+264,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+265,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+266,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+267,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Short-Stay Guests,Budget Travelers
+268,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+269,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+270,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Mid-Range Travelers
+271,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+272,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+273,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Seekers,Extended-Stay Travelers,Budget Travelers
+274,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Short-Stay Guests,Budget Travelers
+275,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+276,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+277,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+278,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+279,Frequent Travelers,Heavy Packers,Discount Enthusiasts,Standard Rate Guests,Extended-Stay Travelers,Luxury Travelers
+280,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+281,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+282,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+283,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+284,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+285,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Mid-Stay Visitors,Mid-Range Travelers
+286,Frequent Travelers,Double Bag Travelers,Discount Seekers,Discount Seekers,Mid-Stay Visitors,Budget Travelers
+287,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Mid-Stay Visitors,Budget Travelers
+288,Frequent Travelers,Double Bag Travelers,Discount Enthusiasts,Standard Rate Guests,Mid-Stay Visitors,Mid-Range Travelers
+289,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Seekers,Mid-Stay Visitors,Mid-Range Travelers
+290,Frequent Travelers,Single Bag Travelers,Discount Seekers,Discount Enthusiasts,Short-Stay Guests,Luxury Travelers
+291,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+292,Frequent Travelers,Double Bag Travelers,Discount Seekers,Discount Seekers,Extended-Stay Travelers,Luxury Travelers
+293,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Budget Travelers
+294,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+295,Frequent Travelers,Single Bag Travelers,Discount Seekers,Standard Rate Guests,Extended-Stay Travelers,Budget Travelers
+296,Frequent Travelers,Single Bag Travelers,Discount Enthusiasts,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+297,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Discount Enthusiasts,Extended-Stay Travelers,Budget Travelers
+298,Frequent Travelers,Single Bag Travelers,Standard Rate Guests,Standard Rate Guests,Mid-Stay Visitors,Luxury Travelers
